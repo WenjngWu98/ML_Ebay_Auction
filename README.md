@@ -1,11 +1,11 @@
 # Final Project - INFO656 Wenjing Wu
 
 ## Introduction
-In the past ten years, e-commerce has completely subverted our life. In addition to buying brand new products, we can also sell idle items online. eBay is a popular second-hand trading platform with a daily trading volume of about 30,000 transactions. The second-hand luxury goods category is a special category, which is purchased at a lower frequency and sold at a higher price per sale. We can evaluate the auction process by analyzing the transaction and see if we can improve the user experience.
+In the past ten years, e-commerce has completely subverted our life. eBay is a popular second-hand trading platform with a daily trading volume of about 30,000 transactions. The second-hand luxury is a special category, which is purchased at a lower frequency and sold at a higher price per sale. 
 
-The project aims to analyze the retail dataset from eBay, including auction data of luxury goods such as Cartier watches and Swarovski beads. The data set contains the bidding days, opening price, closing price, eBay's feedback rating to bidders, and other information about each transaction. Our goal is to analyze the transaction characteristics of second-hand luxury goods and predict the required days and closing prices of different second-hand luxury goods. Our research results can be used as one of the information displayed by the platform to consumers, giving users a better online experience.
+The project aims to analyze the transactions of second-hand luxuries and predicting the best closing prices and bidding days of different items. The platform can display the results to users, giving them a better online experience. The data set contains the bidding days, opening price, closing price, eBay's feedback rating to bidders, and other information about each transaction. 
 
-For sellers, the predicted auction days and the best closing price can help them adjust their setting and ensure that they can sell successfully in the expected time period at an acceptable price. At the same time, the platform can also calculate the time node for sending the recommended mail to the bidder according to the transaction characteristics such as purchase frequency, so as to stimulate consumption without disturbing consumers too much.
+For sellers, the predicted bidding days and closing prices can help them adjust their setting, ensuring the success of selling in limited time. At the same time, the platform can also calculate the time node for sending promotion emails to customers according to the transaction features, so as to stimulate consumption without disturbing consumers too much. 
 
 ## Design Process
 1. Exploratory data analysis
